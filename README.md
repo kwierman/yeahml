@@ -1,5 +1,7 @@
 # YeahML
 
+*This project is no longer being actively developed on tf 1.x*
+
 [//]: # (Image References)
 [tensorboard_graph]: ./misc/tensorboard_graph.png
 [tensorboard_scalar]: ./misc/tensorboard_scalar.png
